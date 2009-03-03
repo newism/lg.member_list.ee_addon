@@ -19,21 +19,13 @@ $L = array(
 'label' =>
 'Member List',
 
-'member_groups' =>
-'Member Group IDs <small>Comma seperated list of group IDs</small>',
-
-'size' =>
-'Number of rows to display in select box <small>Use 1 to display a drop down box</small>',
-
-'multiple' =>
-'Allow multiple member selection?',
-
-'choose_member' =>
-'Do not associate a member with this post',
+'member_groups' =>	'Member Group IDs <small>Comma seperated list of group IDs</small>',
+'size' =>			'Number of rows to display in select box <small>Use 1 to display a drop down box</small>',
+'multiple' => 		'Allow multiple member selection?',
+'choose_member' => 	'Do not associate a member with this entry',
 
 // ERRORS
-'no_members' =>
-'No members exist in the groups specified in the extension settings',
+'no_members' =>		'No members exist in the groups specified in the extension settings',
 
 // END
 ''=>''
